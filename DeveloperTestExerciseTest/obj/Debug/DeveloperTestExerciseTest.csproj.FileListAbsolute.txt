@@ -1,0 +1,10 @@
+C:\Users\CEO\Desktop\Barclay Card\DeveloperTestExercise-master\DeveloperTestExercise-master\DeveloperTestExerciseTest\bin\Debug\DeveloperTestExerciseTest.dll
+C:\Users\CEO\Desktop\Barclay Card\DeveloperTestExercise-master\DeveloperTestExercise-master\DeveloperTestExerciseTest\bin\Debug\DeveloperTestExerciseTest.pdb
+C:\Users\CEO\Desktop\Barclay Card\DeveloperTestExercise-master\DeveloperTestExercise-master\DeveloperTestExerciseTest\bin\Debug\FileData.exe
+C:\Users\CEO\Desktop\Barclay Card\DeveloperTestExercise-master\DeveloperTestExercise-master\DeveloperTestExerciseTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\CEO\Desktop\Barclay Card\DeveloperTestExercise-master\DeveloperTestExercise-master\DeveloperTestExerciseTest\bin\Debug\ThirdPartyTools.dll
+C:\Users\CEO\Desktop\Barclay Card\DeveloperTestExercise-master\DeveloperTestExercise-master\DeveloperTestExerciseTest\bin\Debug\FileData.pdb
+C:\Users\CEO\Desktop\Barclay Card\DeveloperTestExercise-master\DeveloperTestExercise-master\DeveloperTestExerciseTest\bin\Debug\ThirdPartyTools.pdb
+C:\Users\CEO\Desktop\Barclay Card\DeveloperTestExercise-master\DeveloperTestExercise-master\DeveloperTestExerciseTest\obj\Debug\DeveloperTestExerciseTest.csprojResolveAssemblyReference.cache
+C:\Users\CEO\Desktop\Barclay Card\DeveloperTestExercise-master\DeveloperTestExercise-master\DeveloperTestExerciseTest\obj\Debug\DeveloperTestExerciseTest.dll
+C:\Users\CEO\Desktop\Barclay Card\DeveloperTestExercise-master\DeveloperTestExercise-master\DeveloperTestExerciseTest\obj\Debug\DeveloperTestExerciseTest.pdb
